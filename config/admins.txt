@@ -7,3 +7,5 @@
 Naruga = Host
 Themaskedbaka = Game Master
 Khromatic = Game Master
+tatto_moon = Game Master
+Xyraezi = Game Master
