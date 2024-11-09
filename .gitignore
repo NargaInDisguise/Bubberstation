@@ -244,3 +244,6 @@ define_sanity_output.txt
 
 # Running OpenDream locally
 tgstation.json
+config/admins.txt
+config/bubbers/vetted_players.txt
+config/config.txt
