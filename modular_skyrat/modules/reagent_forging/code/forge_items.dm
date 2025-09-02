@@ -109,6 +109,11 @@
 	icon_state = "hot_daggerblade"
 	spawn_item = /obj/item/forging/complete/dagger
 
+/obj/item/forging/incomplete/rapier
+	name = "incomplete rapier blade"
+	icon_state = "hot_rapierblade"
+	spawn_item = /obj/item/forging/complete/rapier
+
 /obj/item/forging/incomplete/staff
 	name = "incomplete staff head"
 	icon_state = "hot_staffhead"
@@ -201,6 +206,12 @@
 	desc = "A dagger blade, ready to get some wood for completion."
 	icon_state = "daggerblade"
 	spawning_item = /obj/item/forging/reagent_weapon/dagger
+
+/obj/item/forging/complete/rapier
+	name = "rapier"
+	desc = "A rapier blade, ready to get some wood for completion."
+	icon_state = "rapierblade"
+	spawning_item = /obj/item/forging/reagent_weapon/rapier
 
 /obj/item/forging/complete/staff
 	name = "staff head"
