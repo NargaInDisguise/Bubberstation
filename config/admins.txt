@@ -6,3 +6,6 @@
 
 naruga = Host
 zeerum = Game Master
+Bombermansam = Game Master
+Jotuc = Game Master
+Mitryll = Game Master
