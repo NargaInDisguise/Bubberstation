@@ -6,6 +6,9 @@
 
 naruga = Host
 zeerum = Game Master
-Bombermansam = Game Master
-Jotuc = Game Master
-Mitryll = Game Master
+jotuc = Game Master
+mitryll = Game Master
+bombermansam = Game Master
+shadowquill = Game Master
+pretztail = Game Master
+tattomoon = Game Master
